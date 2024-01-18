@@ -1,5 +1,5 @@
 import React from "react"
-import grid from "/src/images/photo-grid.png"
+import grid from "/images/photo-grid.png"
 export default function Navbar() {
     return (
         <section className="hero">
